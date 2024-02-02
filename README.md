@@ -1,6 +1,6 @@
-#Mixed Message Creator#
+# Mixed Message Creator
 
-##Description## 
+## Description 
 
 Simple program that takes a library of words and assembles them in random order while forming an acceptably coherent sentence.
 
